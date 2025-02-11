@@ -5,7 +5,7 @@
 */
 
 .bg-info {
-    background-color: #84C3F3 !important; /* Light green for secondary backgrounds */
+    background-color: #85C7F2 !important; /* Light green for secondary backgrounds */
 }
 
 .btn {
@@ -15,7 +15,7 @@
 }
 
 .navbar-dark .navbar-brand, .navbar-dark .navbar-nav .nav-link {
-    color: #B4E39B;            /* Dark green for brand name & nav links for visibility */
+    color:  #B0E298;            /* Dark green for brand name & nav links for visibility */
 }
 
 .navbar-brand{
@@ -29,7 +29,7 @@
 
 .btn-info {
     color: #F7AEF8;            /* Lightest shade for text on info button for contrast */
-    background-color: #84C3F3; /* Light green for button background */
+    background-color: #85C7F2; /* Light green for button background */
     border-color: #990D35;     /* Dark green for button border */
 }
 
@@ -43,5 +43,5 @@
 
 
 body {
-    background-color: #84C3F3; /* Lightest shade for body background to follow the 60% rule */
+    background-color: #85C7F2; /* Lightest shade for body background to follow the 60% rule */
 }
