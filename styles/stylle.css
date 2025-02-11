@@ -1,0 +1,47 @@
+/*
+* --------------------------------------------
+* Custom styles to override the default Bootstrap ones
+* --------------------------------------------
+*/
+
+.bg-info {
+    background-color: #84C3F3 !important; /* Light green for secondary backgrounds */
+}
+
+.btn {
+    background-color: #F7AEF8
+    
+    
+}
+
+.navbar-dark .navbar-brand, .navbar-dark .navbar-nav .nav-link {
+    color: #B4E39B;            /* Dark green for brand name & nav links for visibility */
+}
+
+.navbar-brand{
+    font-family: "Mea Culpa", serif;
+    font-weight: 400;
+    font-size: 3.25rem;
+    font-style: normal;
+
+    
+}
+
+.btn-info {
+    color: #F7AEF8;            /* Lightest shade for text on info button for contrast */
+    background-color: #84C3F3; /* Light green for button background */
+    border-color: #990D35;     /* Dark green for button border */
+}
+
+.btn-primary {
+    color: #F7AEF8;            /* Lightest shade for text */
+    font-size: 150%;
+    background-color: #990D35; /* Dark green for primary button background */
+    border-color: #D52941;     /* Reddish-brown for border to use as accent */
+    border-width: thick;
+}
+
+
+body {
+    background-color: #84C3F3; /* Lightest shade for body background to follow the 60% rule */
+}
